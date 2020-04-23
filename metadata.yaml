@@ -1,0 +1,42 @@
+_repo: Una-historia-de-dos-ciudades_61887
+_version: 0.0.1
+alternative_title: A tale of two cities. Spanish
+contributor:
+  translator:
+    agent_name: Lafuerza, Gregorio
+    gutenberg_agent_id: '51659'
+    url: http://www.gutenberg.org/2009/agents/51659
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2020-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61887'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- History -- 1789-1799 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Lookalikes -- Fiction'
+- !lcc 'PR'
+- !lcsh 'London (England) -- History -- 18th century -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcsh 'French -- England -- London -- Fiction'
+- !lcsh 'Executions and executioners -- Fiction'
+- !lcsh 'British -- France -- Paris -- Fiction'
+- GITenberg
+title: Una historia de dos ciudades
+url: http://www.gutenberg.org/ebooks/61887
